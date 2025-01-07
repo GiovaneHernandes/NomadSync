@@ -1,2 +1,2 @@
 # NomadSync
-Unindo todos os Nomads do planete
+Unindo todos os Nomads do planeta
